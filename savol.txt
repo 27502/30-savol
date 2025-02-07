@@ -1,0 +1,89 @@
+1. JavaScript API nima?
+   - JavaScript API (Application Programming Interface) - bu JavaScript tilida mavjud bo'lgan vositalar va metodlar to'plami.
+
+2. Fetch API nima?
+   - Fetch API - bu veb-serverlardan ma'lumot olish uchun ishlatiladigan JavaScript API hisoblanadi.
+
+3. DOM API nima?
+   - DOM API - bu veb-sahifadagi HTML va XML hujjatlarining tuzilmasini boshqarish uchun ishlatiladigan JavaScript API hisoblanadi.
+
+4. JSON nima?
+   - JSON (JavaScript Object Notation) - bu ma'lumotlar almashish uchun ishlatiladigan eng oddiy va o'qilishi oson format.
+
+5. AJAX nima?
+   - AJAX (Asynchronous JavaScript and XML) - bu veb-sahifalarning ma'lumotlarni sinxronizatsiyasiz olishiga imkon beradigan texnologiya.
+
+6. Event Delegation nima?
+   - Event Delegation - bu DOM elementlarida hodisalarni boshqarishning samarali usuli. Bu yordamida hodisalar ota elementda bajariladi, bu esa ko'plab elementlarga bitta hodisa bilan ishlash imkonini beradi.
+
+7. CORS nima?
+   - CORS (Cross-Origin Resource Sharing) - bu brauzerda bir domen ichida ishlayotgan veb-saytning boshqa domenlardan resurslarni olishga imkon beradigan mexanizm.
+
+8. File API nima?
+   - File API - bu brauzerda fayllar bilan ishlash imkonini beruvchi API.
+
+9. Web Storage API nima?
+   - Web Storage API - bu brauzerda ma'lumotlarni saqlashga yordam beradigan API, u LocalStorage va SessionStorage'ni o'z ichiga oladi.
+
+10. Geolocation API nima?
+    - Geolocation API - bu foydalanuvchining geografik joylashuvini olish uchun ishlatiladigan API.
+
+11. Notification API nima?
+    - Notification API - bu foydalanuvchilarga brauzerda push-xabarlar yuborish imkonini beradigan API.
+
+12. WebSockets API nima?
+    - WebSockets - bu asinxron ikki tomonlama aloqa protokoli, uni JavaScript orqali ishlatish mumkin.
+
+13. IndexedDB nima?
+    - IndexedDB - bu brauzerda katta hajmdagi ma'lumotlarni saqlash uchun ishlatiladigan API.
+
+14. Service Workers nima?
+    - Service Workers - bu brauzerda backgroundda ishlaydigan JavaScript skriptlari, ular offline rejimda ishlashni qo'llab-quvvatlaydi.
+
+15. WebRTC nima?
+    - WebRTC - bu brauzerlarda real vaqtli audio va video muloqotni amalga oshirish imkonini beradigan API.
+
+16. LocalStorage va SessionStorage farqi nima?
+    - LocalStorage - ma'lumotlar brauzer yopilganda ham saqlanadi. SessionStorage - ma'lumotlar faqatgina brauzer o'rnatilgan sessiyada saqlanadi.
+
+17. History API nima?
+    - History API - bu brauzerning tarixini manipulyatsiya qilish imkoniyatini beruvchi API. Bu yordamida sahifalar orasida navigatsiya qilish mumkin.
+
+18. Canvas API nima?
+    - Canvas API - bu HTML5 elementiga asoslangan va rasm va grafikalarni dinamik ravishda yaratish imkonini beradigan API.
+
+19. AudioContext API nima?
+    - AudioContext API - bu JavaScriptda audiolarni boshqarish va tahrirlash uchun ishlatiladigan API.
+
+20. Speech Recognition API nima?
+    - Speech Recognition API - bu foydalanuvchining ovozini tanib, uni matnga aylantirish imkoniyatini beradigan API.
+
+21. Device Orientation API nima?
+    - Device Orientation API - bu qurilmaning holatini va yo'nalishini aniqlashga imkon beruvchi API.
+
+22. Web Workers nima?
+    - Web Workers - bu JavaScript kodi uchun parallel ishlashni ta'minlaydigan mexanizm.
+
+23. Push Notifications nima?
+    - Push Notifications - foydalanuvchining qurilmasiga push-xabar yuborish imkonini beradigan texnologiya.
+
+24. HTML5 Drag and Drop API nima?
+    - HTML5 Drag and Drop API - bu foydalanuvchilarga elementlarni sahifa bo'ylab ko'chirish imkoniyatini beruvchi API.
+
+25. Screen Orientation API nima?
+    - Screen Orientation API - bu qurilmaning ekran orientatsiyasini boshqarish imkonini beruvchi API.
+
+26. Vibration API nima?
+    - Vibration API - bu qurilmaning titrashini boshqarish imkonini beruvchi API.
+
+27. Payment Request API nima?
+    - Payment Request API - bu veb-saytlarning to'lovni amalga oshirishi uchun kerakli API.
+
+28. Web Bluetooth API nima?
+    - Web Bluetooth API - bu brauzerdan Bluetooth qurilmalariga ulanib ishlash imkonini beruvchi API.
+
+29. Web Share API nima?
+    - Web Share API - bu brauzerdan biror narsa (masalan, URL) foydalanuvchining boshqa ilovalari yoki qurilmalari bilan ulashish imkonini beruvchi API.
+
+30. PushManager API nima?
+    - PushManager API - bu push-xabarlarni boshqarish va yuborish uchun ishlatiladigan API.
